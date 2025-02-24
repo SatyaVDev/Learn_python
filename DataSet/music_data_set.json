@@ -1,0 +1,187 @@
+[
+    {
+        "age": 21,
+        "gender": 1,
+        "music_type": "Hip-hop"
+    },
+    {
+        "age": 44,
+        "gender": 0,
+        "music_type": "Dance"
+    },
+    {
+        "age": 29,
+        "gender": 0,
+        "music_type": "Pop"
+    },
+    {
+        "age": 37,
+        "gender": 1,
+        "music_type": "Rock"
+    },
+    {
+        "age": 25,
+        "gender": 1,
+        "music_type": "Classical"
+    },
+    {
+        "age": 22,
+        "gender": 0,
+        "music_type": "Pop"
+    },
+    {
+        "age": 30,
+        "gender": 1,
+        "music_type": "Dance"
+    },
+    {
+        "age": 34,
+        "gender": 0,
+        "music_type": "Hip-hop"
+    },
+    {
+        "age": 28,
+        "gender": 1,
+        "music_type": "Rock"
+    },
+    {
+        "age": 39,
+        "gender": 0,
+        "music_type": "Classical"
+    },
+    {
+        "age": 33,
+        "gender": 1,
+        "music_type": "Pop"
+    },
+    {
+        "age": 40,
+        "gender": 0,
+        "music_type": "Dance"
+    },
+    {
+        "age": 26,
+        "gender": 1,
+        "music_type": "Hip-hop"
+    },
+    {
+        "age": 31,
+        "gender": 0,
+        "music_type": "Rock"
+    },
+    {
+        "age": 23,
+        "gender": 1,
+        "music_type": "Classical"
+    },
+    {
+        "age": 27,
+        "gender": 0,
+        "music_type": "Pop"
+    },
+    {
+        "age": 38,
+        "gender": 1,
+        "music_type": "Dance"
+    },
+    {
+        "age": 32,
+        "gender": 0,
+        "music_type": "Hip-hop"
+    },
+    {
+        "age": 35,
+        "gender": 1,
+        "music_type": "Rock"
+    },
+    {
+        "age": 24,
+        "gender": 0,
+        "music_type": "Classical"
+    },
+    {
+        "age": 42,
+        "gender": 1,
+        "music_type": "Pop"
+    },
+    {
+        "age": 27,
+        "gender": 1,
+        "music_type": "Dance"
+    },
+    {
+        "age": 29,
+        "gender": 0,
+        "music_type": "Hip-hop"
+    },
+    {
+        "age": 36,
+        "gender": 1,
+        "music_type": "Rock"
+    },
+    {
+        "age": 31,
+        "gender": 0,
+        "music_type": "Classical"
+    },
+    {
+        "age": 41,
+        "gender": 1,
+        "music_type": "Pop"
+    },
+    {
+        "age": 22,
+        "gender": 0,
+        "music_type": "Dance"
+    },
+    {
+        "age": 25,
+        "gender": 1,
+        "music_type": "Hip-hop"
+    },
+    {
+        "age": 34,
+        "gender": 0,
+        "music_type": "Rock"
+    },
+    {
+        "age": 30,
+        "gender": 1,
+        "music_type": "Classical"
+    },
+    {
+        "age": 33,
+        "gender": 0,
+        "music_type": "Pop"
+    },
+    {
+        "age": 37,
+        "gender": 1,
+        "music_type": "Dance"
+    },
+    {
+        "age": 28,
+        "gender": 0,
+        "music_type": "Hip-hop"
+    },
+    {
+        "age": 41,
+        "gender": 1,
+        "music_type": "Rock"
+    },
+    {
+        "age": 39,
+        "gender": 0,
+        "music_type": "Classical"
+    },
+    {
+        "age": 27,
+        "gender": 1,
+        "music_type": "Pop"
+    },
+    {
+        "age": 32,
+        "gender": 0,
+        "music_type": "Dance"
+    }
+]
