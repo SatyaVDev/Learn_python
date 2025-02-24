@@ -7,7 +7,7 @@ base_path = "D:\Camera"  # Using relative path for Images
 
 # Define source and duplicate folder paths by appending folder names to the base path
 source_folder = os.path.join(
-    base_path, "source_folder"
+    base_path, "companyGarden"
 )  # Replace with your source folder name
 duplicate_folder = os.path.join(
     base_path, "duplicate_folder"
@@ -52,8 +52,10 @@ def find_and_move_duplicates(source_folder, duplicate_folder):
                 # Check if the hash is already seen (duplicate)
                 if image_hash in seen_hashes:
                     duplicate_count += 1
-                    print(f"Duplicate found: {file} -> Moving to {duplicate_folder}")
-                    shutil.move(file_path, os.path.join(duplicate_folder, file))
+                    print(
+                        f"Duplicate found: {file} -> Moving to {duplicate_folder}")
+                    shutil.move(file_path, os.path.join(
+                        duplicate_folder, file))
                 else:
                     seen_hashes[image_hash] = file_path
 
