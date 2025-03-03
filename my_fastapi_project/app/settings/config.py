@@ -11,6 +11,5 @@ class Settings(BaseModel):
     SECRET_KEY: str = os.getenv("SECRET_KEY", "mysecretkey")
     DEBUG: bool = os.getenv("DEBUG", False)
     API_KEY: str = os.getenv("API_KEY", "defaultapikey")
-
 # Instantiate the settings class
 settings = Settings()
